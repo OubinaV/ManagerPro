@@ -1,0 +1,10 @@
+## Pages
+- [Acceso - TaxiManager](/login): Plataforma completa para propietarios y conductores. Controla ingresos, gastos, mantenimiento y estadísticas.
+- [Configuración - TaxiManager](/settings): Ajustes y configuración de la aplicación TaxiManager.
+- [Dashboard Conductor - TaxiManager](/driverdashboard): Panel de control para conductores de taxi. Gestiona tus viajes, ganancias y horarios de trabajo.
+- [Dashboard Propietario - TaxiManager](/ownerdashboard): Panel de control para propietarios de taxis. Gestiona tu flota, conductores y finanzas en tiempo real.
+- [Estadísticas - TaxiManager](/statistics): Análisis de rendimiento y tendencias del negocio.
+- [Facturación - TaxiManager](/billing): Gestiona tu facturación, registra viajes y consulta tu historial.
+- [Gestión de Gastos - TaxiManager](/expenses): Registra y controla tus gastos mensuales.
+- [Mi Perfil - TaxiManager](/profile): Gestiona tu perfil, datos personales y configuración de la cuenta en TaxiManager.
+- [Suscripción - TaxiManager](/subscription): Desbloquea todas las funciones de TaxiManager con una suscripción.
